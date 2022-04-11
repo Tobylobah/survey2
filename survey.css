@@ -1,0 +1,43 @@
+body {
+    background-color:rgb(166, 213, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.h1{
+    text-align: center;
+}
+.card-cover {
+    border-width: 2px;
+    width:1000px;
+    height:900px;
+    margin:auto;
+    margin-top:10px;
+    background-color:white;
+}
+.card-cover p{
+    text-align: center;
+    padding-top:30px;
+}
+.form{
+float:center;
+}.yo{
+    margin-bottom:0.1em;
+}
+
+input[type=text] {
+    width:50%;
+    box-sizing: border-box;
+  }
+  .hero{
+      margin-bottom:10px;
+  }
+  .bero{
+      margin-bottom:13px;
+}
+  .stu{
+      margin-left:670px;
+  }
+  input[type=role] {
+      border-style: solid;
+      background-color: #f1f1f1;
+      border-color: #333333;
+  }
